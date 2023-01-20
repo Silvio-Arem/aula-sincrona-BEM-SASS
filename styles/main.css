@@ -6,6 +6,9 @@
   width: 150px;
   height: 50px;
 }
+.search-bar__button--active {
+  background-color: green;
+}
 .search-bar p {
   color: blue;
 }
