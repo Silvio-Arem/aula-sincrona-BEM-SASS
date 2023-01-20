@@ -35,4 +35,7 @@ p {
   height: 450px;
   background-color: green;
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.main-content p {
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }/*# sourceMappingURL=main.css.map */
