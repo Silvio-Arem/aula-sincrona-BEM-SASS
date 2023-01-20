@@ -5,15 +5,16 @@
         background-color: red;
         width: 150px;
         height: 50px;
-    }
 
-    &__button--active {
-        background-color: green;
+        &--active {
+            background-color: yellow;
+        }
     }
 
     &--desabled {
         background-color: black;
         color: white;
+        box-shadow: 10px blanchedalmond;
     }
 
     p {

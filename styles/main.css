@@ -7,11 +7,12 @@
   height: 50px;
 }
 .search-bar__button--active {
-  background-color: green;
+  background-color: yellow;
 }
 .search-bar--desabled {
   background-color: black;
   color: white;
+  box-shadow: 10px blanchedalmond;
 }
 .search-bar p {
   color: blue;
