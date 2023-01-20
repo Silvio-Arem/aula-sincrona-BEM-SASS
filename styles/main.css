@@ -34,8 +34,8 @@ p {
   width: 450px;
   height: 450px;
   background-color: green;
-  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(13, 45, 223, 0.726);
 }
 .main-content p {
-  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(13, 45, 223, 0.726);
 }/*# sourceMappingURL=main.css.map */
