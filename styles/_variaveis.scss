@@ -1,8 +1,8 @@
 $feed-bg: green;
 $main-text: gray;
 $disabled-button: #8f8b8b;
-$light-text: rgb(238, 216,216);
-$shadow: rgba(13, 45, 223, 0.726);
+$light-text: rgb(199, 218, 31);
+$shadow: rgba(0, 0, 0, 0.726);
 
 @mixin boxshadow() {
     -webkit-box-shadow: 10px 10px 5px 0px $shadow;
