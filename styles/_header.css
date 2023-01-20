@@ -1,16 +1,13 @@
 .search-bar {
   background-color: aquamarine;
 }
+
 .search-bar__button {
   background-color: red;
   width: 150px;
   height: 50px;
 }
+
 .search-bar p {
   color: blue;
 }
-
-body {
-  background-color: darkgrey;
-  color: blue;
-}/*# sourceMappingURL=main.css.map */

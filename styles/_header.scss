@@ -1,0 +1,15 @@
+.search-bar {
+    background-color: aquamarine;
+
+    &__button {
+        background-color: red;
+        width: 150px;
+        height: 50px;
+    }
+
+    
+
+    p {
+        color: blue;
+    }
+}
