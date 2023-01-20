@@ -12,6 +12,11 @@ $light-text: rgb(238, 216,216);
 
         &--active {
             background-color: yellow;
+
+            &:hover {
+                background-color: $disabled-button;
+                transition: 0.3s all;
+            }
         }
     }
 

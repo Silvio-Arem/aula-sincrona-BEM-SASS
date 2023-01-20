@@ -9,6 +9,10 @@
 .search-bar__button--active {
   background-color: yellow;
 }
+.search-bar__button--active:hover {
+  background-color: #8f8b8b;
+  transition: 0.3s all;
+}
 .search-bar--desabled {
   background-color: #8f8b8b;
   color: rgb(238, 216, 216);
