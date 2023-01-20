@@ -11,7 +11,10 @@
         background-color: green;
     }
 
-    
+    &--desabled {
+        background-color: black;
+        color: white;
+    }
 
     p {
         color: blue;

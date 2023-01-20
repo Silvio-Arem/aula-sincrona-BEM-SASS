@@ -9,6 +9,10 @@
 .search-bar__button--active {
   background-color: green;
 }
+.search-bar--desabled {
+  background-color: black;
+  color: white;
+}
 .search-bar p {
   color: blue;
 }
