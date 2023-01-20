@@ -10,9 +10,8 @@
   background-color: yellow;
 }
 .search-bar--desabled {
-  background-color: black;
-  color: white;
-  box-shadow: 10px blanchedalmond;
+  background-color: #8f8b8b;
+  color: rgb(238, 216, 216);
 }
 .search-bar p {
   color: green;

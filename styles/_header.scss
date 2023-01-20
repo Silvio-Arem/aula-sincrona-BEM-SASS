@@ -1,4 +1,6 @@
 $main-text: green;
+$disabled-button: #8f8b8b;
+$light-text: rgb(238, 216,216);
 
 .search-bar {
     background-color: aquamarine;
@@ -14,9 +16,8 @@ $main-text: green;
     }
 
     &--desabled {
-        background-color: black;
-        color: white;
-        box-shadow: 10px blanchedalmond;
+        background-color: $disabled-button;
+        color: $light-text;
     }
 
     p {
