@@ -7,4 +7,11 @@
 .search-bar__button {
     width: 100px;
     height: 50px;
+    background-color: lights lightslategray;
+    color: darkgrey;
+}
+
+.search-bar__button--active {
+    background-color: green;
+    color: white;
 }
