@@ -18,7 +18,7 @@
   color: rgb(238, 216, 216);
 }
 .search-bar p {
-  color: green;
+  color: gray;
 }
 
 body {
@@ -33,5 +33,5 @@ p {
 .main-content {
   width: 450px;
   height: 450px;
-  background-color: gray;
+  background-color: green;
 }/*# sourceMappingURL=main.css.map */
