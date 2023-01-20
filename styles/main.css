@@ -28,4 +28,10 @@ body {
 
 p {
   color: red;
+}
+
+.main-content {
+  width: 450px;
+  height: 450px;
+  background-color: gray;
 }/*# sourceMappingURL=main.css.map */
